@@ -1,0 +1,4 @@
+Gimli:98
+Gandalf:918
+Lurtz:122
+Aragorn:98
